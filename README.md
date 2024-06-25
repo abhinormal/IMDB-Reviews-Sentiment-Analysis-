@@ -17,5 +17,4 @@ streamlit run app.py
 
 ![image](https://github.com/abhinormal/IMDB-Reviews-Sentiment-Analysis-/assets/122599194/87e8ef13-753e-4a2f-b691-72140d0efb6b)
 
-input ur review in the text box and click generate.
-
+input ur review in the text box and click predict.
